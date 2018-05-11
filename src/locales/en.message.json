@@ -1,0 +1,16 @@
+{
+  "page.index.desc": "Trusted timestamping is the process of securely keeping track of the creation and modification time of a document. Security here means that no one—not even the owner of the document—should be able to change it once it has been recorded provided that the timestamper's integrity is never compromised.The administrative aspect involves setting up a publicly available, trusted timestamp management infrastructure to collect, process and renew timestamps.",
+  "page.index.dropzone":"Drop files here or click to upload",
+  "page.index.loading":"It may take a few minutes to calculating hash....",
+  "page.index.hash":"File Hash：",
+  "page.index.submit": "Submit to Blockchian",
+  "page.index.tips": "<a href='{url}'>Click here</a> to view <b>after the transaction is complete</b>.",
+  "page.index.exist": "This timestamp is already exists，<a href='{url}'>Click here</a> to view.",
+  "page.view.notFound": "Error 404：HASH NOT FOUND",
+  "page.view.exist": " Trusted Timestamp is valid.",
+  "page.view.author": "Created By：",
+  "page.view.time": "Created At：",
+  "page.view.authBy": "Authentication By：",
+  "layout.footer.desc": "A Decentralized Trusted Timestamp Authority.",
+  "layout.footer.powered_by": "Powered by {nebulas}."
+}

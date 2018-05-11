@@ -1,0 +1,18 @@
+{
+  "Title": "标题",
+  "Skip To": "跳到",
+  "page.index.desc": "可信时间戳服务的本质是将用户的电子数据的Hash值和权威时间源绑定，在此基础上通过时间戳服务中心数字签名，产生不可伪造的时间戳文件。 通过电子数据及对应可信时间戳文件有效证明电子数据的完整性及产生时间。",
+  "page.index.dropzone":"请拖动文件至本区域或直接单击本区域以上传文件。",
+  "page.index.loading":"正在计算文件指纹，视乎于文件大小可能需要几分钟时间....",
+  "page.index.hash":"文件指纹：",
+  "page.index.submit": "将可信时间戳写入区块链",
+  "page.index.tips": "当<b>交易完成后</b>，可<a href='{url}'>点击这里</a>查看数据。",
+  "page.index.exist": "该文件已存在可信时间戳，可<a href='{url}'>点击这里</a>查看详情。",
+  "page.view.notFound": "404错误： 该文件指纹不存在",
+  "page.view.exist": "可信时间戳认证通过",
+  "page.view.author": "权益人：",
+  "page.view.time": "记录时间：",
+  "page.view.authBy": "记录者：",
+  "layout.footer.desc": "去中心化的可信时间戳服务。",
+  "layout.footer.powered_by": "由 {nebulas} 强力驱动。"
+}

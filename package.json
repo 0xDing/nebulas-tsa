@@ -1,0 +1,28 @@
+{
+  "name": "nebulas-tsa",
+  "version": "1.0.0",
+  "description": "A Decentralized Trusted Timestamp Authority.",
+  "main": "index.js",
+  "repository": "https://github.com/borisding1994/nebulas-tsa",
+  "author": "i@boris.tech",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "lint": "eslint --ext .js src test"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "grommet": "^1.10.1",
+    "nebulas": "^0.4.8",
+    "react": "^16.3.2",
+    "react-dropzone": "^4.2.9",
+    "react-intl": "^2.4.0",
+    "umi": "^1.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-scc": "^0.1.2"
+  }
+}
